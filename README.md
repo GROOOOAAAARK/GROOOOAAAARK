@@ -2,7 +2,7 @@
 # <div align="center">GROOOOAAAARK 🚀</div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com/?center=true&pause=500&font=roboto&size=25&style=bold&color=4F4CF2&lines=Blockchain+Engineer;Web3+Builder;Piano+Player" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?center=true&pause=500&font=roboto&size=25&style=bold&color=4F4CF2&lines=Blockchain+Engineer;Software+Architect;Technical+Lead;Piano+Player" alt="Typing SVG"/>
 </div>
 
 ## About Me
