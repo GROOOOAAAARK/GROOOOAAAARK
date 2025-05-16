@@ -43,19 +43,24 @@
     <img src="https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt.js"/>
 </div>
 
-### Devops
+### DevOps
 
 <div align="center">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/Scaleway-000000?style=for-the-badge&logo=scaleway&logoColor=white" alt="Scaleway"/>
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
     <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
 </div>
+
+### Cloud Providers
+<div align="center">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Scaleway-000000?style=for-the-badge&logo=scaleway&logoColor=white" alt="Scaleway"/>
+</div>
+
 
 ### Operating Systems
 
