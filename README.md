@@ -16,7 +16,7 @@
 ## Activity
 
 <div align="center">
-    <img src="https://github-readme-stats-navy-eight.vercel.app/api?username=grooooaaaark&show_icons=true&theme=ambient_gradient" alt="GRK's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=grooooaaaark&show_icons=true&theme=ambient_gradient" alt="GRK's GitHub stats"/>
 </div>
 
 ## Skills
