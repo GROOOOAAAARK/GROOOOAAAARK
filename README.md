@@ -9,7 +9,7 @@
 
 <div align="justify">
     <p style="font-family: Roboto;">
-        Motivated blockchain engineer with a focus on outcomes. After earning a dependable foundation across 2 years of experience in the blockchain sector and 3 more years on more global challenges (team lead, tech project lead and hybrid dev / ops roles) I am focused on contributing to the web3 ecosystem especially on projects with real impact.
+        Motivated blockchain engineer with a focus on outcomes. After earning a dependable foundation across 2 years of experience in the blockchain sector and 3 more years on more global challenges (team lead, tech project lead and hybrid dev / ops roles) I am now focused on contributing to the Web3 ecosystem especially on projects with real impact.
     </p>
 </div>
 
@@ -28,8 +28,10 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-    <img src="https://img.shields.io/badge/Cairo-000000?style=for-the-badge&logo=cairo&logoColor=white" alt="Cairo"/>
+    <img src="https://img.shields.io/badge/Solidity-2B287C?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+    <img src="https://img.shields.io/badge/Cairo-CE341C?style=for-the-badge&logo=cairo&logoColor=white" alt="Cairo"/>
+    <img src="https://img.shields.io/badge/Noir-4754E7?style=for-the-badge&logo=noir&logoColor=white" alt="Noir"/>
+    <img src="https://img.shields.io/badge/Circom-2094F3?style=for-the-badge&logo=circom&logoColor=white" alt="Circom"/>
 </div>
 
 ### Frameworks
@@ -37,10 +39,13 @@
 <div align="center">
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
     <img src="https://img.shields.io/badge/FastAPI-009488?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=actix&logoColor=white" alt="Actix"/>
+    <img src="https://img.shields.io/badge/Actix-E98EF5?style=for-the-badge&logo=actix&logoColor=black" alt="Actix"/>
+    <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white" alt="Gin"/>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt.js"/>
+    <img src="https://img.shields.io/badge/Nuxt.js-3ADC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt.js"/>
+    <img src="https://img.shields.io/badge/Foundry-F9C23A?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry"/>
+    <img src="https://img.shields.io/badge/Hardhat-FEF24C?style=for-the-badge&logo=hardhat&logoColor=white" alt="Hardhat"/>
 </div>
 
 ### DevOps
