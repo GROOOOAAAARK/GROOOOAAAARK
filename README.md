@@ -61,11 +61,11 @@
 </div>
 
 ### Cloud Providers
-<div align="center">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/Scaleway-000000?style=for-the-badge&logo=scaleway&logoColor=white" alt="Scaleway"/>
-</div>
 
+<div align="center">
+    <img src="https://img.shields.io/badge/AWS-E4752F?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Scaleway-533499?style=for-the-badge&logo=scaleway&logoColor=white" alt="Scaleway"/>
+</div>
 
 ### Operating Systems
 
