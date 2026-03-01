@@ -16,7 +16,7 @@
 ## Activity
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=grooooaaaark&show_icons=true&theme=ambient_gradient" alt="GRK's GitHub stats"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grooooaaaark&theme=2077" alt="GRK's GitHub stats"/>
 </div>
 
 ## Skills
