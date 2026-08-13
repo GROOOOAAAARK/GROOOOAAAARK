@@ -9,7 +9,7 @@
 
 <div align="justify">
     <p style="font-family: Roboto;">
-        Motivated blockchain engineer with a focus on outcomes. After earning a dependable foundation across 2 years of experience in the blockchain sector and 3 more years on more global challenges (team lead, tech project lead and hybrid dev / ops roles) I am now focused on contributing to the Web3 ecosystem especially on projects with real impact.
+        Motivated fullstack engineer with a focus on outcomes. After earning a dependable foundation across 2 years of experience in the blockchain sector and 3 more years on more global challenges (team and tech lead and hybrid dev / ops roles) in the medtech and insurance sectors, I am focused on contributing to highly innovative and impactful projects from PoC to scale phases.
     </p>
 </div>
 
